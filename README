@@ -11,6 +11,8 @@ pybeginner
 |
 ├── salary.py ---> shows gross salary report for 1 employee
 |
+├── stud.py ---> shows student grades average
+|
 └── README --> this file, contains explanations about the programs
 #
 # 
