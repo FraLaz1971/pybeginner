@@ -1,0 +1,18 @@
+#!/usr/bin/env python3
+print("*************************")
+print("** enter employee details")
+print("** name, hourly rate and")
+print("** number of hours worked")
+print("** and get salary report")
+print("*************************")
+employee = input('employee_name:')
+s = float(input('hourly_rate ($):'))
+num = float(input('number_of_hours:'))
+sn = num*s
+print()
+print("*************************")
+print('Employee:',employee)
+print('Gross_salary:',sn,'$')
+print("*************************")
+print("Bye.")
+print("*************************")
