@@ -13,6 +13,8 @@ pybeginner
 |
 ├── stud.py ---> shows student grades average
 |
+├── sum2.py ---> sum2 2 numbers
+|
 └── README --> this file, contains explanations about the programs
 #
 # 
