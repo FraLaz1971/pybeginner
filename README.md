@@ -36,7 +36,7 @@ based tool or Integrated Development Environment, the most
 suitable way to start is using the python IDLE Integrated Development and Learning Environment
 that is shipped with most of the python installation packages.
 You just have to open the example you want to run in the python IDLE
-and select from the drop-down menu Run ---> Run Module F5
+and select from the drop-down menu Run ---> Run Module F5 .
 When the input are given on the command line, will be easier to run
 the program on a shell terminal.
 ![run example in python IDLE](howtorun.png "how to run an example in the python IDLE Integrated and Learning Environment")
