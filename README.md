@@ -58,9 +58,9 @@ for the GUI or no UI scripts,
 see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
 ## terminal usage examples:
 Here are shown how is possible to run the examples on the shell terminals
-example running on bash terminal. The names in square brackets like 
-	<this>
-are placeholders to be customized in the specific commands.
+The names in square brackets like <this> are placeholders to be customized 
+in the specific commands.
+### example running on bash terminal. 
     python3 <program.py>
 ### or
     python <program.py>
