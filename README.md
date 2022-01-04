@@ -4,21 +4,21 @@
 
 ## Pay Attention!! you may get errors if executed using python2 interpreter
 
-pybeginner
-|
-├── exp.py --> execute exponentiation of 2 numbers in input
-|              as program arguments from the command line
-├── inpar.py ---> shows program input parameters
-|
-├── myplot.py ---> matplotlib example: shows squares points
-|
-├── salary.py ---> shows gross salary report for 1 employee
-|
-├── stud.py ---> shows student grades average
-|
-├── sum2.py ---> sum2 2 numbers
-|
-└── README --> this file, contains explanations about the programs
+# pybeginner
+
+- exp.py --> execute exponentiation of 2 numbers in input
+              as program arguments from the command line
+- inpar.py ---> shows program input parameters
+
+- myplot.py ---> matplotlib example: shows squares points
+
+- salary.py ---> shows gross salary report for 1 employee
+
+- stud.py ---> shows student grades average
+
+- sum2.py ---> sum2 2 numbers
+
+- README --> this file, contains explanations about the programs
 #
 # 
 ### supposing your python (3) interpreter is called python3
