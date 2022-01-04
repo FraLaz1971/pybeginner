@@ -31,13 +31,22 @@ suitable to start is the python IDLE Integrated Development and Learning Environ
 that is shipped with most of the python installation packages.
 You just have to open the example you want to run in the python IDLE
 and select from the drop-down menu Run ---> Run Module F5
-![run example in python IDLE](howtorun.png "how to run an example in the python IDLE
-Integrated and Learning Environment")
-
+![run example in python IDLE](howtorun.png "how to run an example in the python IDLE Integrated and Learning Environment")
+you may read https://docs.python.org/3/library/idle.html for more info.
 ### Using a shell terminal 
-You may use a shell terminal to run this examples.
-we are supposing your python (version 3) interpreter is called python3
-### or python3.exe on MS win
+You may use a shell terminal to run this examples. If you are using 
+any Microsoft Windows version you may use the cmd terminal or the newer
+powershell terminal. If you are running a GNU/Linux version
+(like Ubuntu, Debian, Manjaro, Arch, OpenSUSE, Fedora, ...) or Apple MacOS
+you may use a bash terminal.
+The directory (=folder) where the executable is located must be included in the list
+of paths in the PATH environment variable (this should be true after the installation
+but you may add it manually).
+Check how the executable file is called and that
+We are supposing your python (version 3) and the interpreter can be called python3
+or just python, python.exe or python3.exe. 
+On MS win they should be called python.exe or python3.exe for the console based interpreter
+and pythonw.exe for the GUI or no UI scripts, see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
 ### (it may be called python or python.exe on MS win)
 ## usage:
 ## it's possible to run the examples on the shell terminal
