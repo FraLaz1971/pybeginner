@@ -23,9 +23,20 @@ using python3 interpreter, to exercise and modify at your choice.
 - sum2.py ---> sum2 2 numbers
 
 - README --> this file, contains explanations about the programs
-#
-# 
-### supposing your python (3) interpreter is called python3
+## How to run the examples
+### Using python IDLE
+All the examples can be run using a Graphical User Interface
+based tool or Integrated Development Environment, the most
+suitable to start is the python IDLE Integrated Development and Learning Environment
+that is shipped with most of the python installation packages.
+You just have to open the example you want to run in the python IDLE
+and select from the drop-down menu Run ---> Run Module F5
+![run example in python IDLE](howtorun.png "how to run an example in the python IDLE
+Integrated and Learning Environment")
+
+### Using a shell terminal 
+You may use a shell terminal to run this examples.
+we are supposing your python (version 3) interpreter is called python3
 ### or python3.exe on MS win
 ### (it may be called python or python.exe on MS win)
 ## usage:
