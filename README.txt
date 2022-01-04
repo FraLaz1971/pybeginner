@@ -91,11 +91,16 @@ in the specific commands.
     .\python3 <program.py>
 ### where <program.py> it is a placeholder for the actual
 ### python source code file
+### the program inpar.py takes a list of arguments on the command line and then shows it
     ./inpar.py arg otherarg this 3 33
     Number of arguments: 6 arguments.
     Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
+# the same without making the source executable
+    python inpar.py arg otherarg this 3 33
+    Number of arguments: 6 arguments.
+    Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 #
-### running on MS win the exp.py example it may be
+### running on MS win the exp.py example with 10 and 3 as arguments it may be
 	python exp.py 10 3
 	('Number of arguments:', 3, 'arguments.')
 	('Argument List:', "['exp.py', '10', '3']")
@@ -104,10 +109,6 @@ in the specific commands.
 ### this is another example run on Linux
     ./myplot.py
 ![myplot results](awesome.png "myplot.py giving results")
-#
-    ./inpar.py arg otherarg this 3 33
-    Number of arguments: 6 arguments.
-    Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 #
     py>./salary.py
     *************************
