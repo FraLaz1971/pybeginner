@@ -50,73 +50,73 @@ or just python, python.exe or python3.exe.
 On MS win they should be called python.exe or python3.exe for the console based interpreter
 and pythonw.exe for the GUI or no UI scripts, see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
 ### (it may be called python or python.exe on MS win)
-## usage:
-## it's possible to run the examples on the shell terminal
-## or on python IDLE or your favourite IDE
-## Integrated Desktop Environment
-## console terminal on Unix-like (GNU/Linux, MacOS, ...)
-## example running on bash terminal
+usage:
+it's possible to run the examples on the shell terminal
+or on python IDLE or your favourite IDE
+Integrated Desktop Environment
+console terminal on Unix-like (GNU/Linux, MacOS, ...)
+example running on bash terminal
 
-python3 <program.py>
+    python3 <program.py>
 ### or
-python <program.py>
+    python <program.py>
 #
-python3 <program.py>
+    python3 <program.py>
 #
-./python3 <program.py>
+    ./python3 <program.py>
 ### on MS win it may be just
-python <program.py>
+    python <program.py>
 ### or
-python3 <program.py>
+    python3 <program.py>
 #
-.\python <program.py>
+    .\python <program.py>
 ### or 
-.\python3 <program.py>
+    .\python3 <program.py>
 ### where <program.py> it is a placeholder for the actual
 ### python source code file
-./inpar.py arg otherarg this 3 33
-Number of arguments: 6 arguments.
-Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
+    ./inpar.py arg otherarg this 3 33
+    Number of arguments: 6 arguments.
+    Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 #
 ### it may be
-expr.py example
+    expr.py example
 #
-./myplot.py
+    ./myplot.py
 ![myplot results](awesome.png "myplot.py giving results")
 #
-./inpar.py arg otherarg this 3 33
-Number of arguments: 6 arguments.
-Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
+    ./inpar.py arg otherarg this 3 33
+    Number of arguments: 6 arguments.
+    Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 #
-py>./salary.py
-*************************
-** enter employee details
-** name, hourly rate and
-** number of hours worked
-** and get salary report
-*************************
-employee_name:John Smith
-hourly_rate ($):12
-number_of_hours:300
+    py>./salary.py
+    *************************
+    ** enter employee details
+    ** name, hourly rate and
+    ** number of hours worked
+    ** and get salary report
+    *************************
+    employee_name:John Smith
+    hourly_rate ($):12
+    number_of_hours:300
 
-*************************
-Employee: John Smith
-Gross_salary: 3600.0 $
-*************************
-Bye.
-*************************
-#
-py>./salary.py < salin.csv 
-*************************
-** enter employee details
-** name, hourly rate and
-** number of hours worked
-** and get salary report
-*************************
-employee_name:hourly_rate ($):number_of_hours:
-*************************
-Employee: Calvin Harris
-Gross_salary: 5000.0 $
-*************************
-Bye.
-*************************
+    *************************
+    Employee: John Smith
+    Gross_salary: 3600.0 $
+    *************************
+    Bye.
+    *************************
+    #
+    py>./salary.py < salin.csv 
+    *************************
+    ** enter employee details
+    ** name, hourly rate and
+    ** number of hours worked
+    ** and get salary report
+    *************************
+    employee_name:hourly_rate ($):number_of_hours:
+    *************************
+    Employee: Calvin Harris
+    Gross_salary: 5000.0 $
+    *************************
+    Bye.
+    *************************
