@@ -49,7 +49,7 @@ If you are using any Microsoft Windows version you may use the cmd terminal
 https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
 or the newer powershell terminal. 
 If you are running a GNU/Linux version
-(like Ubuntu, Debian, Manjaro, Arch, OpenSUSE, Fedora, ...) or Apple MacOS
+(like Ubuntu, Mint, Debian, Manjaro, Arch, OpenSUSE, Fedora, ...) or Apple MacOS
 or any other UNIX-like OS you may use a bash terminal.
 The directory (=folder) where the executable file is located must be included in the list
 of paths in the PATH environment variable (this should be true after the installation
