@@ -2,7 +2,7 @@
 # python3 examples for beginners ##
 ###################################
 
-### Pay Attention!! you may get errors if executed using python2 interpreter
+## Pay Attention!! you may get errors if executed using python2 interpreter
 
 pybeginner
 |
@@ -21,44 +21,42 @@ pybeginner
 └── README --> this file, contains explanations about the programs
 #
 # 
-# supposing your python (3) interpreter is called python3
-# or python3.exe on MS win
-# (it may be called python or python.exe on MS win)
-# usage:
-# it's possible to run the examples on the shell terminal
-# or on python IDLE or your favourite IDE
-# Integrated Desktop Environment
-# console terminal on Unix-like (GNU/Linux, MacOS, ...)
-# example running on bash terminal
+### supposing your python (3) interpreter is called python3
+### or python3.exe on MS win
+### (it may be called python or python.exe on MS win)
+## usage:
+## it's possible to run the examples on the shell terminal
+## or on python IDLE or your favourite IDE
+## Integrated Desktop Environment
+## console terminal on Unix-like (GNU/Linux, MacOS, ...)
+## example running on bash terminal
 
 python3 <program.py>
-# or
+### or
 python <program.py>
 #
 python3 <program.py>
 #
 ./python3 <program.py>
-# on MS win it may be just
+### on MS win it may be just
 python <program.py>
-# or
+### or
 python3 <program.py>
 #
 .\python <program.py>
-# or 
+### or 
 .\python3 <program.py>
-# where <program.py> it is a placeholder for the actual
-# python source code file
+### where <program.py> it is a placeholder for the actual
+### python source code file
 ./inpar.py arg otherarg this 3 33
 Number of arguments: 6 arguments.
 Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 #
-# it may be
+### it may be
 expr.py example
 #
 ./myplot.py
-
 ![myplot results](awesome.png "myplot.py giving results")
-
 #
 ./inpar.py arg otherarg this 3 33
 Number of arguments: 6 arguments.
