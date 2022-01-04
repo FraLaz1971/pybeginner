@@ -113,10 +113,11 @@ in the specific commands.
 ### this is another example run on Linux
     ./myplot.py
 ![myplot results](awesome.png "myplot.py giving results")
-### also this is run on Linux, you see you have to add ./ since the current 
-### folder is not included in the executable paths list. in MS win you should
-### use .\ or may avoid it
-### Here the parameters are given interactively
+### also the following is run on Linux, 
+you see you have to add ./ since the current folder is not included 
+in the executable paths list. in MS win you should use .\ 
+or may avoid it, here the parameters are given interactively
+
     py>./salary.py
     *************************
     ** enter employee details
