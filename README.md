@@ -93,10 +93,10 @@ in the specific commands.
     Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 #
 ### running on MS win the exp.py example it may be
-$ python exp.py 10 3
-('Number of arguments:', 3, 'arguments.')
-('Argument List:', "['exp.py', '10', '3']")
-('n^m: ', '10^3 = ', 1000)
+	python exp.py 10 3
+	('Number of arguments:', 3, 'arguments.')
+	('Argument List:', "['exp.py', '10', '3']")
+	('n^m: ', '10^3 = ', 1000)
 # 
 ### this is another example run on Linux
     ./myplot.py
