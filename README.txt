@@ -33,7 +33,7 @@ or command "type" on MS win).
 ### Using python IDLE
 All the examples can be run using a Graphical User Interface
 based tool or Integrated Development Environment, the most
-suitable to start is the python IDLE Integrated Development and Learning Environment
+suitable way to start is using the python IDLE Integrated Development and Learning Environment
 that is shipped with most of the python installation packages.
 You just have to open the example you want to run in the python IDLE
 and select from the drop-down menu Run ---> Run Module F5
@@ -68,6 +68,8 @@ Using the MS win notepad is not recommended.
 
 ## terminal usage examples:
 Here are shown how is possible to run the examples on the shell terminals.
+It is a matter of just typing the name of the interpreter and giving
+in input to it the program file name, plus input parameters if they are needed.
 The names in square brackets like \<somename\> are placeholders to be customized 
 in the specific commands.
 ### example running on bash terminal. 
