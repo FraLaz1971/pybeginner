@@ -122,3 +122,4 @@ example running on bash terminal
     *************************
     Bye.
     *************************
+![salary.py run](salaryrun.png "showing the execution of the console app salary.py using the terminal on MS Win and reading from standard input")
