@@ -57,7 +57,7 @@ should be called python.exe or python3.exe for the console based interpreter and
 for the GUI or no UI scripts, 
 see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
 ## terminal usage examples:
-Here are shown how is possible to run the examples on the shell terminals
+Here are shown how is possible to run the examples on the shell terminals.
 The names in square brackets like \<somename\> are placeholders to be customized 
 in the specific commands.
 ### example running on bash terminal. 
