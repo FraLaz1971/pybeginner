@@ -20,7 +20,7 @@ using python3 interpreter, to exercise and modify at your choice.
 
 - stud.py ---> shows student grades average
 
-- sum2.py ---> sum2 2 numbers
+- sum2.py ---> sum 2 numbers
 
 - README --> this file, contains explanations about the programs
 ## How to run the examples
