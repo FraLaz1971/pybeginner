@@ -1,6 +1,9 @@
 ###################################
 # python3 examples for beginners ##
 ###################################
+
+### Pay Attention!! you may get errors if executed using python2 interpreter
+
 pybeginner
 |
 ├── exp.py --> execute exponentiation of 2 numbers in input
@@ -53,6 +56,7 @@ Argument List: ['./inpar.py', 'arg', 'otherarg', 'this', '3', '33']
 expr.py example
 #
 ./myplot.py
+![myplot results](./awesome.png "myplot.py giving results")
 #
 ./inpar.py arg otherarg this 3 33
 Number of arguments: 6 arguments.
