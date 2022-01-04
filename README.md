@@ -45,18 +45,16 @@ The directory (=folder) where the executable is located must be included in the 
 of paths in the PATH environment variable (this should be true after the installation
 but you may add it manually).
 Check how the executable file is called and that
-We are supposing your python (version 3) and the interpreter can be called python3
-or just python, python.exe or python3.exe. 
-On MS win they should be called python.exe or python3.exe for the console based interpreter
-and pythonw.exe for the GUI or no UI scripts, see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
-### (it may be called python or python.exe on MS win)
-usage:
-it's possible to run the examples on the shell terminal
-or on python IDLE or your favourite IDE
-Integrated Desktop Environment
-console terminal on Unix-like (GNU/Linux, MacOS, ...)
+We are supposing your python (version 3) and the interpreter in MacOS or Linux 
+can be called python3 or just python, while in MS win the interpreter executable file 
+should be called python.exe or python3.exe  for the console based interpreter and pythonw.exe 
+for the GUI or no UI scripts, 
+see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
+## terminal usage examples:
+This is how is possible to run the examples on the shell terminal
+or on python IDLE or your favourite IDE (Integrated Desktop Environment)
+console terminal on UNIX-like OS (GNU/Linux, MacOS, ...)
 example running on bash terminal
-
     python3 <program.py>
 ### or
     python <program.py>
