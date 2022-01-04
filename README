@@ -24,7 +24,7 @@ using python3 interpreter, to exercise and modify at your choice.
 
 - README --> this file, contains explanations about the programs
 ## How to run the examples
-You can use your favourite IDE (Integrated Desktop Environment) like
+You can use your favourite IDE (Integrated Development Environment) like
 python IDLE, PyCharm, Visual Studio Code, Kdevelop, geany, ...
 or a console character terminal, plus a text editor if you want to
 read the code and modify it (short scripts can be also read from terminal
