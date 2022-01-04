@@ -70,6 +70,7 @@ Using the MS win notepad is not recommended.
 Here are shown how is possible to run the examples on the shell terminals.
 It is a matter of just typing the name of the interpreter and giving
 in input to it the program file name, plus input parameters if they are needed.
+If the file is made executable the name of the interpreter can be omitted.
 The names in square brackets like \<somename\> are placeholders to be customized 
 in the specific commands.
 ### example running on bash terminal. 
