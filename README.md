@@ -24,6 +24,9 @@ using python3 interpreter, to exercise and modify at your choice.
 
 - README --> this file, contains explanations about the programs
 ## How to run the examples
+you can use your favourite IDE (Integrated Desktop Environment) like
+python IDLE, PyCharm, Visual Studio Code, Kdevelop, geany, ...
+or a console character terminal.
 ### Using python IDLE
 All the examples can be run using a Graphical User Interface
 based tool or Integrated Development Environment, the most
@@ -36,25 +39,28 @@ and select from the drop-down menu Run ---> Run Module F5
 
 you may read https://docs.python.org/3/library/idle.html for more info.
 ### Using a shell terminal 
-You may use a shell terminal to run this examples. If you are using 
-any Microsoft Windows version you may use the cmd terminal or the newer
-powershell terminal. If you are running a GNU/Linux version
+You may use a shell terminal to run these examples. Since they are very
+basic console scripts this may be the quicker option.
+If you are using any Microsoft Windows version you may use the cmd terminal 
+(also called command prompt)
+https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
+or the newer powershell terminal. 
+If you are running a GNU/Linux version
 (like Ubuntu, Debian, Manjaro, Arch, OpenSUSE, Fedora, ...) or Apple MacOS
-you may use a bash terminal.
-The directory (=folder) where the executable is located must be included in the list
+or any other UNIX-like OS you may use a bash terminal.
+The directory (=folder) where the executable file is located must be included in the list
 of paths in the PATH environment variable (this should be true after the installation
 but you may add it manually).
-Check how the executable file is called and that
 We are supposing your python (version 3) and the interpreter in MacOS or Linux 
 can be called python3 or just python, while in MS win the interpreter executable file 
-should be called python.exe or python3.exe  for the console based interpreter and pythonw.exe 
+should be called python.exe or python3.exe for the console based interpreter and pythonw.exe 
 for the GUI or no UI scripts, 
 see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
 ## terminal usage examples:
-This is how is possible to run the examples on the shell terminal
-or on python IDLE or your favourite IDE (Integrated Desktop Environment)
-console terminal on UNIX-like OS (GNU/Linux, MacOS, ...)
-example running on bash terminal
+Here are shown how is possible to run the examples on the shell terminals
+example running on bash terminal. The names in square brackets like 
+	<this>
+are placeholders to be customized in the specific commands.
     python3 <program.py>
 ### or
     python <program.py>
