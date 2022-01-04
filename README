@@ -57,7 +57,7 @@ expr.py example
 #
 ./myplot.py
 
-![myplot results](./awesome.png "myplot.py giving results")
+    ![myplot results](./awesome.png "myplot.py giving results")
 
 #
 ./inpar.py arg otherarg this 3 33
