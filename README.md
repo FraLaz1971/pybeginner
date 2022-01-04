@@ -105,7 +105,9 @@ example running on bash terminal
     *************************
     Bye.
     *************************
-    #
+#
+![salary.py run](salaryrun.png "showing the execution of the console app salary.py using the terminal")
+#
     py>./salary.py < salin.csv 
     *************************
     ** enter employee details
