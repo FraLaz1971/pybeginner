@@ -56,6 +56,11 @@ can be called python3 or just python, while in MS win the interpreter executable
 should be called python.exe or python3.exe for the console based interpreter and pythonw.exe 
 for the GUI or no UI scripts, 
 see https://stackoverflow.com/questions/9705982/pythonw-exe-or-python-exe for more info.
+If you want to modify the script examples and run with therminal, you need a text editor,
+a very good solution is to use the kate editor https://kate-editor.org/get-it
+or your favourite text editor if you have it yet. 
+Using the MS win notepad is not recommended.
+![edit in kate](kateediting.png "how to edit the examples")
 ## terminal usage examples:
 Here are shown how is possible to run the examples on the shell terminals.
 The names in square brackets like \<somename\> are placeholders to be customized 
