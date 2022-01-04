@@ -43,7 +43,10 @@ and select from the drop-down menu Run ---> Run Module F5
 you may read https://docs.python.org/3/library/idle.html for more info.
 ### Using a shell terminal 
 You may use a shell terminal to run these examples. Since they are very
-basic console scripts this may be the quicker option.
+basic console scripts this may be the quicker option. 
+You need to open the terminal and staying with the prompt in the
+folder where the program to run is (or you should give a long
+directory path, that has different syntax among different operating systems).
 If you are using any Microsoft Windows version you may use the cmd terminal 
 (also called command prompt)
 https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
@@ -109,7 +112,10 @@ in the specific commands.
 ### this is another example run on Linux
     ./myplot.py
 ![myplot results](awesome.png "myplot.py giving results")
-#
+### also this is run on Linux, you see you have to add ./ since the current 
+### folder is not included in the executable paths list. in MS win you should
+### use .\ or may avoid it
+### Here the parameters are given interactively
     py>./salary.py
     *************************
     ** enter employee details
@@ -130,6 +136,8 @@ in the specific commands.
 #
 ![salary.py run](salaryrun.png "showing the execution of the console app salary.py using the terminal")
 #
+### Here the parameters are read from file salin.csv
+### and we are using the unix-like syntax
     py>./salary.py < salin.csv 
     *************************
     ** enter employee details
@@ -144,4 +152,5 @@ in the specific commands.
     *************************
     Bye.
     *************************
+#
 ![salary.py < file.csv run](salaryonwincmd.jpg "showing the execution of the console app salary.py using the terminal on MS Win and reading from standard input")
