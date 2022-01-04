@@ -113,7 +113,7 @@ in the specific commands.
 ### this is another example run on Linux
     ./myplot.py
 ![myplot results](awesome.png "myplot.py giving results")
-### also the following is run on Linux, 
+### the salary.py program in the following lines is shown how run on Linux terminal
 you see you have to add ./ since the current folder is not included 
 in the executable paths list. in MS win you should use .\ 
 or may avoid it, here the parameters are given interactively
@@ -139,7 +139,7 @@ or may avoid it, here the parameters are given interactively
 ![salary.py run](salaryrun.png "showing the execution of the console app salary.py using the terminal")
 #
 ### Here the parameters are read from file salin.csv
-### and we are using the unix-like syntax
+and we are using the unix-like syntax, in the picture is shown on MS win, instead.
     py>./salary.py < salin.csv 
     *************************
     ** enter employee details
