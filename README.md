@@ -110,7 +110,7 @@ in the specific commands.
 	('Argument List:', "['exp.py', '10', '3']")
 	('n^m: ', '10^3 = ', 1000)
 # 
-### this is another example run on Linux
+### this is another example run of myplot.py on Linux
     ./myplot.py
 ![myplot results](awesome.png "myplot.py giving results")
 ### the salary.py program in the following lines is shown how run on Linux terminal
@@ -140,6 +140,7 @@ or may avoid it, here the parameters are given interactively
 #
 ### Here the parameters are read from file salin.csv
 and we are using the unix-like syntax, in the picture is shown on MS win, instead.
+
     py>./salary.py < salin.csv 
     *************************
     ** enter employee details
