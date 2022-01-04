@@ -5,6 +5,10 @@
 ## Pay Attention!! you may get errors if executed using python2 interpreter
 
 # pybeginner
+# ##################################
+Contains few programming examples to that can be run 
+using python3 interpreter, to exercise and modify at your choice.
+# ##################################
 
 - exp.py --> execute exponentiation of 2 numbers in input
               as program arguments from the command line
