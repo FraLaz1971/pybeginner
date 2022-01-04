@@ -31,7 +31,9 @@ suitable to start is the python IDLE Integrated Development and Learning Environ
 that is shipped with most of the python installation packages.
 You just have to open the example you want to run in the python IDLE
 and select from the drop-down menu Run ---> Run Module F5
+
 ![run example in python IDLE](howtorun.png "how to run an example in the python IDLE Integrated and Learning Environment")
+
 you may read https://docs.python.org/3/library/idle.html for more info.
 ### Using a shell terminal 
 You may use a shell terminal to run this examples. If you are using 
