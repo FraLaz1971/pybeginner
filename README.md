@@ -1,6 +1,6 @@
-###################################
-# python3 examples for beginners ##
-###################################
+# ##################################
+# python3 examples for beginners  ##
+# ##################################
 
 ## Pay Attention!! you may get errors if executed using python2 interpreter
 
