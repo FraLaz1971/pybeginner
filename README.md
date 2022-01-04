@@ -6,7 +6,7 @@
 
 # pybeginner
 # ##################################
-Contains few programming examples to that can be run 
+Contains few programming examples that can be run 
 using python3 interpreter, to exercise and modify at your choice.
 # ##################################
 
@@ -60,7 +60,9 @@ If you want to modify the script examples and run with therminal, you need a tex
 a very good solution is to use the kate editor https://kate-editor.org/get-it
 or your favourite text editor if you have it yet. 
 Using the MS win notepad is not recommended.
+
 ![edit in kate](kateediting.png "how to edit the examples")
+
 ## terminal usage examples:
 Here are shown how is possible to run the examples on the shell terminals.
 The names in square brackets like \<somename\> are placeholders to be customized 
